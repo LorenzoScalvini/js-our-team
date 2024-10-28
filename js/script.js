@@ -61,5 +61,5 @@ function displayTeamMembers() {
   }
 }
 
-//Chiamo la funzione per visualizzare un ouitput nell'html
+//Chiamo la funzione per visualizzare un output nell'html
 displayTeamMembers();
